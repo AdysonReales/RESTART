@@ -1,0 +1,11 @@
+# Large archives & tools
+*.zip
+butler.exe
+*.dll
+
+# Ren'Py compiled files & cache
+*.rpyc
+*.rpymc
+**/game/cache/
+**/game/saves/
+**/.renpy/
