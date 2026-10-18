@@ -1,9 +1,17 @@
-# Large archives & tools
+# Archives & uploaders
 *.zip
 butler.exe
 *.dll
+*.exe
 
-# Ren'Py compiled files & cache
+# Ren'Py engine runtime (only source code tracked)
+REstart-1.0-pc/lib/
+REstart-1.0-pc/renpy/
+REstart-1.0-pc/REstart.exe
+REstart-1.0-pc/REstart.py
+REstart-1.0-pc/REstart.sh
+
+# Cache & saves
 *.rpyc
 *.rpymc
 **/game/cache/
